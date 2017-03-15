@@ -7,7 +7,7 @@
   "license": "MIT",
   "activationCommands": {
     "atom-text-editor": [
-      "toggle-quotes:toggle"
+      "uzitech-toggle-quotes:toggle"
     ]
   },
   "engines": {

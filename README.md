@@ -18,7 +18,7 @@ Where `|` is the cursor, will produce
 "Hello" "World"
 ```
 
-If there is a selection it looks for the first quote befre the beginning of the selection and the next same quote after the end of the selection
+If there is a selection it looks for the first quote before the beginning of the selection and the next same quote after the end of the selection
 
 
 "Hell<code><code>o" "W</code></code>orld"
